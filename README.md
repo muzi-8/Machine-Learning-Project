@@ -3,3 +3,4 @@
   - [code](https://github.com/WillKoehrsen/wikipedia-data-science)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [Python 数据科学速查表](https://zhuanlan.zhihu.com/p/45764855)
+- [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org/en/latest/)
