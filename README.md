@@ -8,3 +8,6 @@
   - [code](https://github.com/WillKoehrsen/wikipedia-data-science)
 - [How I analyzed a million Medium articles to learn how many claps great stories get](https://medium.freecodecamp.org/how-i-analyzed-a-million-medium-articles-to-learn-how-many-claps-great-stories-get-d688cf92759f)
   - [code: Analyzing_Medium](https://github.com/harrisonjansma/Analyzing_Medium)
+## Book
+- [Introduction to Data Science](https://rafalab.github.io/dsbook/)
+ - [code](https://github.com/rafalab/dsbook)
