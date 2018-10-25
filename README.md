@@ -10,4 +10,4 @@
   - [code: Analyzing_Medium](https://github.com/harrisonjansma/Analyzing_Medium)
 ## Book
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/)
- - [code](https://github.com/rafalab/dsbook)
+  - [Repository for data science book](https://github.com/rafalab/dsbook)
