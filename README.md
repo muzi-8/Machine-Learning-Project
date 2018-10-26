@@ -11,3 +11,4 @@
 ## Book
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/)
   - [Repository for data science book](https://github.com/rafalab/dsbook)
+- [斯坦福机器学习CS229课程讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
