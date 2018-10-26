@@ -16,3 +16,5 @@
 - [An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch](https://github.com/Spandan-Madan/DeepLearningProject)
 
 - numpy 书籍:https://yunpan.360.cn/surl_ymvrfYVkzeu （提取码：f9bc）
+## 系列教程
+- [机器学习中文：刘建平Pinard](https://github.com/ljpzzz/machinelearning)
