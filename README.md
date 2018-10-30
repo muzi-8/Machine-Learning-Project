@@ -18,3 +18,5 @@
 - numpy 书籍:https://yunpan.360.cn/surl_ymvrfYVkzeu （提取码：f9bc）
 ## 系列教程
 - [机器学习中文：刘建平Pinard](https://github.com/ljpzzz/machinelearning)
+## DeepLearning
+- [Classification and Loss Evaluation - Softmax and Cross Entropy Loss](https://deepnotes.io/softmax-crossentropy)
