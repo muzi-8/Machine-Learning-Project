@@ -4,6 +4,7 @@
 - [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org/en/latest/)
 - [Machine Learning Links and Lessons Learned](https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned)
 - [python豆瓣爬虫](https://github.com/QLWeilcf/lcfSpyderWithPy3/blob/master/doubanBlstSpider.ipynb)
+- [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
 ## case study
 - [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
   - [code](https://github.com/WillKoehrsen/wikipedia-data-science)
